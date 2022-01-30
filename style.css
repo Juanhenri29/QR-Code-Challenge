@@ -1,0 +1,31 @@
+body{
+  background-color: #d6e2f0;
+  font-family: Outfit;
+}
+
+h5{
+  color: #1f3251;
+  font-family: Outfit;
+  font-weight: 700;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+p{
+  color: #7b879d;
+  font-family: Outfit;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+
+.background-putih{
+  background-color: white;
+  border-radius: 20px;
+  padding: 15px;
+  text-align: center;
+  margin: 7% auto;
+}
+
+.card-img-top{
+  border-radius: 10px;
+}
